@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1694126390 source:d:\practicaherenciaycompoempleados\main.cpp
+	<iostream>
+
+1694129256 source:d:\practicaherenciaycompoempleados\asalariado.cpp
+	<iostream>
+	"Asalariado.h"
+
+1694126796 source:d:\practicaherenciaycompoempleados\employee.cpp
+	<iostream>
+	"employee.h"
+	"string.h"
+
+1694126390 d:\practicaherenciaycompoempleados\employee.h
+
+1694127938 d:\practicaherenciaycompoempleados\asalariado.h
+	"employee.h"
+
+1694128504 source:d:\practicaherenciaycompoempleados\forhour.cpp
+	<iostream>
+	"ForHour.h"
+
+1694129053 d:\practicaherenciaycompoempleados\forhour.h
+	"employee.h"
+
+1694129792 source:d:\practicaherenciaycompoempleados\commission.cpp
+	<iostream>
+	"commission.h"
+
+1694129792 d:\practicaherenciaycompoempleados\commission.h
+	"employee.h"
+
+1694203901 source:d:\practicaherenciaycompoempleados\assosiated.cpp
+	<iostream>
+	"assosiated.h"
+
+1694203708 d:\practicaherenciaycompoempleados\assosiated.h
+	"employee.h"
+
+1694317692 source:d:\tup\practicaherenciaycompoempleados\asalariado.cpp
+	<iostream>
+	"Asalariado.h"
+	"employee.h"
+
+1694317692 d:\tup\practicaherenciaycompoempleados\asalariado.h
+	"employee.h"
+
+1694317692 d:\tup\practicaherenciaycompoempleados\employee.h
+
+1694233962 source:d:\tup\practicaherenciaycompoempleados\assosiated.cpp
+	<iostream>
+	"assosiated.h"
+
+1694233190 d:\tup\practicaherenciaycompoempleados\assosiated.h
+	"employee.h"
+
+1694317692 source:d:\tup\practicaherenciaycompoempleados\commission.cpp
+	<iostream>
+	"commission.h"
+
+1694317692 d:\tup\practicaherenciaycompoempleados\commission.h
+	"employee.h"
+
+1694317692 source:d:\tup\practicaherenciaycompoempleados\employee.cpp
+	<iostream>
+	"employee.h"
+	<string>
+	"string.h"
+
+1694317692 source:d:\tup\practicaherenciaycompoempleados\forhour.cpp
+	<iostream>
+	"ForHour.h"
+	"employee.h"
+
+1694230336 d:\tup\practicaherenciaycompoempleados\forhour.h
+	"employee.h"
+
+1694190692 source:d:\tup\practicaherenciaycompoempleados\menu.cpp
+	<iostream>
+
+1694317692 source:d:\tup\practicaherenciaycompoempleados\main.cpp
+	<iostream>
+	"employee.h"
+	"assosiated.h"
+	"commission.h"
+	"Asalariado.h"
+	"ForHour.h"
+	"funciones.h"
+
+1694317692 source:d:\tup\practicaherenciaycompoempleados\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"Asalariado.h"
+	"employee.h"
+	"ForHour.h"
+	"commission.h"
+	"assosiated.h"
+
+1694317692 d:\tup\practicaherenciaycompoempleados\funciones.h
+	"employee.h"
+
